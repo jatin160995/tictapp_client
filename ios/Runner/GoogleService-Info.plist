@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>774338460034-04ll0efellmq5o4ngtc95khis0r9fvnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.774338460034-04ll0efellmq5o4ngtc95khis0r9fvnh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDv5w-cU_Uy-O4taTaG8GO7UZZNQWxGcOk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>774338460034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iniz.tictapp</string>
+	<key>PROJECT_ID</key>
+	<string>tictapp-6db1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tictapp-6db1f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:774338460034:ios:7f4e949e2138ea7a6e379b</string>
+	<key>DATABASE_URL</key>
+	<string>https://tictapp-6db1f.firebaseio.com</string>
+</dict>
+</plist>
